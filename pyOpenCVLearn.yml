@@ -1,0 +1,6 @@
+name: pyOpenCVLearn
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: C:\Users\11036\.conda\envs\pyOpenCVLearn
